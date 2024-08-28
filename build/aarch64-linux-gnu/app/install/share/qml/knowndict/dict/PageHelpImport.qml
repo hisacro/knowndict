@@ -32,17 +32,9 @@ Page {
 
                 Label {
                     anchors { left: parent.left; right: parent.right }
-                    text: i18n.tr("1. KnownDict supports dictionaries in StarDict dictionary format. Use your favorite search engine to find some. A selection of dictionaries is available at")
+                    text: i18n.tr("1. KnownDict supports dictionaries in StarDict dictionary format. Use your favorite search engine to find some. A selection of dictionaries is available at https://tuxor1337.frama.io/firedict/dictionaries.html")
                     wrapMode: Text.WrapAtWordBoundaryOrAnywhere
                 }
-                    ListItem.Standard {
-                        text: "<b>" + i18n.tr("tuxor1337.frama.io/firedict/dictionaries.html") + "</b>"
-                        showDivider: false
-                        MouseArea {
-                            anchors.fill: parent
-                            onClicked: Qt.openUrlExternally("https://tuxor1337.frama.io/firedict/dictionaries.html")
-                        }
-
                 Label {
                     anchors { left: parent.left; right: parent.right }
                     text: i18n.tr("2. Download and uncompress the zip.")

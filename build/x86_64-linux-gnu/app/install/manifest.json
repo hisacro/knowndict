@@ -10,6 +10,6 @@
         }
     },
     "version": "0.2.0",
-    "maintainer": "Peter Putz <p.putz@yahoo.de>",
+    "maintainer": "hisacro <fsl@displ.nl>",
     "framework" : "ubuntu-sdk-20.04"
 }
