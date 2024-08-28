@@ -1,6 +1,6 @@
 # Known Dictionary
 
-a dictionary app for Ubuntu Touch
+A dictionary app for Ubuntu Touch
 
 Supports online and offline dictionaries. 
 
@@ -13,7 +13,10 @@ Stardict format dictionaries can be downloaded from  [tuxor1337.frama.io/firedic
 git clone https://github.com/hisacro/knowndict.git
 cd knowndict 
 clickable
+
 ```
+## Screenshots
+
 
 ## credit
 
