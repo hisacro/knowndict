@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=KnownDict
+Name[zh_CN]=知道
+Comment=Dictionary App
+Exec=knowndict
+Icon=graphics/knowndict.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
+
+
+

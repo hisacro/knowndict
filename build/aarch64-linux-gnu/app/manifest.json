@@ -1,0 +1,15 @@
+{
+    "name": "knowndict.hisacro",
+    "description": "Known Dictionary, a dictionary app for Ubuntu Touch",
+    "architecture": "arm64",
+    "title": "KnownDict",
+    "hooks": {
+        "KnownDict": {
+            "apparmor": "KnownDict.apparmor",
+            "desktop": "KnownDict.desktop"
+        }
+    },
+    "version": "0.2.0",
+    "maintainer": "Peter Putz <p.putz@yahoo.de>",
+    "framework" : "ubuntu-sdk-20.04"
+}

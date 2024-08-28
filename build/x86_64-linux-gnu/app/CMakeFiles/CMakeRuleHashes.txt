@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+77376f3c6e0b03e098f75871c957ccd0 po/CMakeFiles/KnownDict.desktop
+b94d6cc632fc3c36e1ce9d1da760f0d2 po/CMakeFiles/knowndict.hisacro.pot
+ed302cccf76aac1edc29f17a5b43a4bc po/CMakeFiles/pofiles_1
+542fdf33705395e176c1565a62e96ccf po/zh_CN.gmo
+e64b1768c04e2bfc00144e8f460359d1 src/CMakeFiles/knowndict_autogen

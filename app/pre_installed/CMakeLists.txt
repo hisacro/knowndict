@@ -1,0 +1,2 @@
+add_subdirectory(langdao_ce)
+add_subdirectory(langdao_ec)

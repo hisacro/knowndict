@@ -1,0 +1,12 @@
+[Desktop Entry]
+_Name=KnownDict
+Comment=Dictionary App
+Exec=knowndict
+Icon=graphics/knowndict.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
+
+
+

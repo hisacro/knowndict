@@ -9,7 +9,7 @@ You can import dictionaries in the "stardict" format. Instructions are in the ap
 ## build
 
 ```
-git clone https://gitlab.com/doniks/knowndict.git
+git clone https://github.com/hisacro/knowndict.git
 cd knowndict 
 clickable
 ```

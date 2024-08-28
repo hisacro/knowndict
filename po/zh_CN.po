@@ -1,0 +1,515 @@
+# Chinese translations for  package
+#  软件包的简体中文翻译.
+# Copyright (C) 2015 THE 'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  package.
+# cy <joeychan.ubuntu@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-23 20:24+0800\n"
+"PO-Revision-Date: 2015-03-14 15:07+0800\n"
+"Last-Translator: cy <joeychan.ubuntu@gmail.com>\n"
+"Language-Team: Chinese (simplified) <translation-team-zh-cn@lists."
+"sourceforge.net>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/PageEnablePreinstalled.qml:44 ../app/PageEnablePreinstalled.qml:67
+msgid "Enable dictionaries"
+msgstr "启用词典"
+
+#: ../app/PageEnablePreinstalled.qml:45
+msgid ""
+"The following dictionaries are pre-installed, due to some law issues, the "
+"dictionaries are disabled by default. User needs to enable them manually."
+msgstr ""
+"下面列出的词典已经预装在您的设备里，但是由于版权问题，它们默认并没有启用.您需"
+"要手动启用它们。"
+
+#: ../app/PageEnablePreinstalled.qml:47
+msgid "Langdao English-Chinese"
+msgstr "朗道英汉词典"
+
+#: ../app/PageEnablePreinstalled.qml:48
+msgid "Langdao Chinese-English"
+msgstr "朗道汉英词典"
+
+#: ../app/PageEnablePreinstalled.qml:49
+msgid "Youdao online API"
+msgstr "有道在线词典"
+
+#: ../app/PageEnablePreinstalled.qml:107
+msgid "Dictionaries successfully imported :)"
+msgstr "词典导入成功 :)"
+
+#: ../app/PageEnablePreinstalled.qml:108
+msgid "Sth wrong during import.. :("
+msgstr "词典导入出现错误..:("
+
+#: ../app/PageEnablePreinstalled.qml:111
+msgid "OK"
+msgstr "确认"
+
+#: ../app/PageEnablePreinstalled.qml:131
+msgid "It's OK"
+msgstr "没关系"
+
+#: ../app/PageEnablePreinstalled.qml:132
+msgid "You still can enable it in Info page."
+msgstr "您依然可以在'关于'页面启用它们"
+
+#: ../app/PageHelp.qml:44
+msgid "Welcome to<br>KnownDict"
+msgstr "欢迎使用<br>知道词典"
+
+#: ../app/PageHelp.qml:60
+msgid ""
+"This is a special version for Chinese, or those who want to learn Chinese. "
+"There are 2 Chinese/English dictionaries ship with this app."
+msgstr ""
+"这是一个中文用户和那些想要学习中文的人的特殊版本.默认有两部汉英词典预装在您的"
+"设备。"
+
+#: ../app/PageHelp.qml:65
+msgid ""
+"Warning: due to some law issues, the dictionaries ship with this app are "
+"disabled by default. User needs to enable them manually."
+msgstr "警告:由于版权问题，预装的词典默认并没有启用，您需要手动启用它们。"
+
+#: ../app/PageHelp.qml:72
+msgid "Swipe left to continue."
+msgstr "向左滑动继续."
+
+#: ../app/PageHelp.qml:91
+msgid "Offline usage"
+msgstr "离线词典使用说明"
+
+#: ../app/PageHelp.qml:99
+msgid ""
+"1. This app support StarDict dictionary format file. Those files are very "
+"easy to be found by any search engines."
+msgstr ""
+"1. '知道'支持StarDict词典文件。StarDict词典文件非常常见，您可以通过搜索引擎方"
+"便的找到。"
+
+#: ../app/PageHelp.qml:104
+msgid ""
+"2. To import StarDict dictionary, there's another instruction in setting "
+"page to show how to import."
+msgstr "2. 在'设置'页面有更详细的导入指南帮助您导入StarDict的词典."
+
+#: ../app/PageHelp.qml:121
+msgid "Online usage"
+msgstr "在线词典使用说明"
+
+#: ../app/PageHelp.qml:129
+msgid ""
+"1. This special version ship with Youdao Dictionary online API, it can "
+"translate all other languages to Chinese or Chinese to all other languages."
+msgstr ""
+"1. 该特殊版本预装了有道在线词典，它能够将其他语种翻译成为中文并且能够将中文翻"
+"译成为其他语种。"
+
+#: ../app/PageHelp.qml:134
+msgid ""
+"2. Youdao API is also disabled by default, user needs to enable it manually."
+msgstr "2. 有道在线词典默认并没有启用,您需要手动启用它."
+
+#: ../app/PageHelp.qml:139
+msgid ""
+"3. To use Youdao online dictionary, there's a bottom area in the search page "
+"to enter Youdao Online Dictionary."
+msgstr ""
+"3. 在搜索页面的下方有一个按钮，通过此按钮您可以方便的使用在线词典搜索。"
+
+#: ../app/PageHelp.qml:156
+msgid "Setting Page"
+msgstr "设置"
+
+#: ../app/PageHelp.qml:164
+msgid ""
+"1. Normally, users are no need to care about their settings, default setting "
+"will work fine for most cases."
+msgstr "1. 通常情况下,默认的设置已经能够满足您的需求，您不必担心。"
+
+#: ../app/PageHelp.qml:169
+msgid ""
+"2. To enter setting page, press 'Back' button in search page then press the "
+"'setting' button."
+msgstr "2. 在搜索页面,按'返回'按钮,然后按'设置'按钮进入设置页面."
+
+#: ../app/PageHelp.qml:174
+msgid "3. In setting page, following functions can be operated by user:"
+msgstr "3. 在设置页面您可以进行以下操作:"
+
+#: ../app/PageHelp.qml:180
+msgid "  *. press the 'Plus' button to import new dictionary"
+msgstr "  *. 按'+'按钮导入新的词典"
+
+#: ../app/PageHelp.qml:185
+msgid "  *. press the 'Switch' button to enable/disable dictionary"
+msgstr "  *. 按开关键启用或者关闭词典"
+
+#: ../app/PageHelp.qml:190
+msgid "  *. swipe from left to delete one dictionary"
+msgstr "  *. 在词典条目上右滑来删除词典"
+
+#: ../app/PageHelp.qml:207
+msgid "Enjoy !"
+msgstr "开始使用吧！"
+
+#: ../app/PageHelp.qml:225
+msgid "Start using KnownDict"
+msgstr "开始使用知道"
+
+#: ../app/PageHelp.qml:249 ../app/dict/PageHelpImport.qml:153
+msgid "Skip"
+msgstr "跳过"
+
+#: ../app/PageInfo.qml:28
+msgid "About KnownDict"
+msgstr "关于知道"
+
+#: ../app/PageInfo.qml:50
+msgid "Help"
+msgstr "帮助"
+
+#: ../app/PageInfo.qml:53
+msgid "Show First Run Tutorial"
+msgstr "初次运行指南"
+
+#: ../app/PageInfo.qml:64
+msgid "Enable default dictionaries"
+msgstr "启用默认词典"
+
+#: ../app/PageInfo.qml:68
+msgid "Enable it"
+msgstr "启用"
+
+#: ../app/PageInfo.qml:78
+msgid "Author"
+msgstr "作者"
+
+#: ../app/PageInfo.qml:92
+msgid "Disclaimer"
+msgstr "声明"
+
+#: ../app/PageInfo.qml:96
+msgid "License with GPLv3"
+msgstr "采用GPL第三版协议开源"
+
+#: ../app/PageInfo.qml:101
+msgid ""
+"Dictionaries/Online API used by this app is not/nendorsed or certified by "
+"their copyrights' owner."
+msgstr "本软件使用的离线词典和在线词典没有被它的著作权者签署使用."
+
+#: ../app/PageInfo.qml:107
+msgid "Click here to report a bug"
+msgstr "点击这里报告BUG"
+
+#: ../app/components/OnlineDict.qml:93
+msgid "Hide <<"
+msgstr "隐藏<<"
+
+#: ../app/components/OnlineDict.qml:94
+msgid "Expand >>"
+msgstr "展开>>"
+
+#: ../app/dict/ContentHubPicker.qml:10
+msgid "Import Dictionaries"
+msgstr "导入词典"
+
+#: ../app/dict/ContentHubPicker.qml:140
+msgid "No file detected, please press the button below to import files. "
+msgstr "没有找到文件，请按下面的按钮开始导入词典文件。"
+
+#: ../app/dict/ContentHubPicker.qml:145
+msgid "Dictionary files detected, please press the button below to proceed. "
+msgstr "找到了词典文件，请按下面的按钮开始导入。"
+
+#: ../app/dict/ContentHubPicker.qml:148
+msgid "Some files are missing, please make sure there are "
+msgstr "词典文件丢失，请确认词典文件完整。"
+
+#: ../app/dict/ContentHubPicker.qml:164
+msgid "Instruction"
+msgstr "导入词典指南"
+
+#: ../app/dict/ContentHubPicker.qml:170 ../app/dict/PageHelpImport.qml:128
+msgid "Start Import"
+msgstr "开始导入"
+
+#: ../app/dict/ContentHubPicker.qml:179
+msgid "Complete Import"
+msgstr "导入完成"
+
+#: ../app/dict/PageDictCenter.qml:10
+msgid "Dictionaries"
+msgstr "词典中心"
+
+#: ../app/dict/PageDictCenter.qml:71
+msgid ""
+"No dictionary imported yet, please press the button up here to start "
+"importing"
+msgstr "您还没有导入词典，请按右上方按钮导入词典。"
+
+#: ../app/dict/PageHelpImport.qml:26
+msgid "A. Prepare StarDict dictionary files"
+msgstr "A.准备StarDict词典文件"
+
+#: ../app/dict/PageHelpImport.qml:34
+msgid ""
+"1. StarDict dictionary format is very popular and you can easily find one by "
+"using search engine."
+msgstr "1. StarDict词典文件非常常见，您可以通过搜索引擎方便的找到。"
+
+#: ../app/dict/PageHelpImport.qml:39
+msgid "2. Download and uncompress the dictionary, there must be few files."
+msgstr "2.下载并解压词典文件，您将得到几个单独的文件。"
+
+#: ../app/dict/PageHelpImport.qml:44
+msgid ""
+"3. Find a file called <name>.dict.dz, uncompress it, and rename the "
+"uncompressed file to <name>.dict"
+msgstr "3.找到一个<name>.dict.dz的文件，将他解压并重命名为<name>.dict"
+
+#: ../app/dict/PageHelpImport.qml:49
+msgid ""
+"4. Now, it's good to proceed if you see these files: <name>.dict, <name>."
+"idx, <name>.ifo"
+msgstr "4.现在您应该可以看到<name>.dict, <name>.idx, <name>.ifo这三个文件"
+
+#: ../app/dict/PageHelpImport.qml:65
+msgid "B. Copy files to device"
+msgstr "B.将词典文件拷贝到您的设备"
+
+#: ../app/dict/PageHelpImport.qml:73
+msgid "1. Unlock your device and connect it to your PC via USB."
+msgstr "1.解锁您设备的屏幕，并用USB将其连接至您的电脑。"
+
+#: ../app/dict/PageHelpImport.qml:78
+msgid ""
+"2. You should now browse files in your device, if not, plsease contact your "
+"device provider."
+msgstr ""
+"2.现在您应该可以通过电脑浏览您设备里的文件，如果不能，请联系您的设备提供商。"
+
+#: ../app/dict/PageHelpImport.qml:83
+msgid ""
+"3. Copy the folder which contains the dictionary files to your devices, "
+"please remember the folder's name & location, you will need it in next step."
+msgstr ""
+"3.将含有词典文件的文件夹复制到您的设备，请记住复制的目的地址以及文件夹名，您"
+"将在下一步用到它。"
+
+#: ../app/dict/PageHelpImport.qml:99
+msgid "C. In-app import"
+msgstr "C. 软件内导入"
+
+#: ../app/dict/PageHelpImport.qml:107
+msgid "1. Due to security reasons, files must be explicitly imported by user."
+msgstr "1. 由于安全策略的原因，词典文件需要由用户导入。"
+
+#: ../app/dict/PageHelpImport.qml:112
+msgid ""
+"2. The button next to 'Instruction', is the entry of importing dictionary "
+"files."
+msgstr "2. 点击在'导入指南'旁边的按钮可以开始导入词典。"
+
+#: ../app/dict/PageHelpImport.qml:117
+msgid ""
+"3. When a dialog comes out to ask you what app to choose, please choose "
+"'File Manager'."
+msgstr "3. 当一个对话框询问您用哪一个应用打开时,请选择'文件管理器'."
+
+#: ../app/dict/PageHelpImport.qml:122
+msgid ""
+"4. Now, select the files which you copied to your device, this app will "
+"guide you to complete the rest import process. Enjoy!"
+msgstr ""
+"4.在'文件管理器'中选择您在上一步复制到您设备中的所有文件，软件将指引您完成导"
+"入。"
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:39
+msgid "MMMM d"
+msgstr ""
+
+#: ../app/js/dateutils.js:54
+#, qt-format
+msgid "Yesterday at %1"
+msgstr ""
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:57
+msgid "h:mm AP"
+msgstr ""
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:69
+msgid "ddd, h:mm AP"
+msgstr ""
+
+#: ../app/js/dateutils.js:76
+msgid "A few seconds ago..."
+msgstr ""
+
+#: ../app/js/dateutils.js:79
+#, qt-format
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/js/dateutils.js:83
+#, qt-format
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/js/dateutils.js:89
+#, qt-format
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/search/PageDetail.qml:10
+msgid "Detail"
+msgstr "详细释义"
+
+#: ../app/search/PageDetail.qml:110 ../app/search/PageSearch.qml:224
+msgid "search via online dictionary >>"
+msgstr "在线搜索 >>"
+
+#: ../app/search/PageOnlineDetail.qml:10
+msgid "Online search results"
+msgstr "在线搜索结果"
+
+#: ../app/search/PageOnlineDetail.qml:44
+msgid "Loading..."
+msgstr "载入中..."
+
+#: ../app/search/PageSearch.qml:11
+#: /home/beny/Ubuntu4Phone/build-knowndict-done-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_14_10_utopic-Default/po/KnownDict.desktop.in.h:1
+msgid "KnownDict"
+msgstr "知道"
+
+#: ../app/search/PageSearch.qml:80
+msgid "back"
+msgstr "后退"
+
+#: ../app/search/PageSearch.qml:92
+msgid "Please input a word"
+msgstr "请输入单词"
+
+#: ../app/search/PageSearch.qml:177
+msgid ""
+"No dictionary found, please the press Setting button to start importing. "
+msgstr "您还没有导入词典，请按右上方按钮导入词典。"
+
+#: ../app/search/PageSearch.qml:267
+msgid "History"
+msgstr "搜索历史"
+
+#: ../src/dict.cpp:25
+#, qt-format
+msgid "The %1 is not exists"
+msgstr ""
+
+#: ../src/dict.cpp:37
+#, qt-format
+msgid "The directory:%1 not contain dict files.\n"
+msgstr ""
+
+#: ../src/dict.cpp:42
+#, qt-format
+msgid "Load the info file error from. %1\n"
+msgstr ""
+
+#: ../src/dict.cpp:47
+#, qt-format
+msgid "Load the index file error from %1.\n"
+msgstr ""
+
+#: ../src/dict.cpp:52
+#, qt-format
+msgid "Load the data file error from %1.\n"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:14
+msgid "Two dict files exist!Load origin file first."
+msgstr ""
+
+#: ../src/dictdatablock.cpp:22
+#, qt-format
+msgid "The cache file '%1' cannot open or creat"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:29
+#, qt-format
+msgid "No dict file found according to %1"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:40 ../src/dictdatablock.cpp:60
+#, qt-format
+msgid "Faild to open dict file: %1.Error: %2"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:49 ../src/dictdatablock.cpp:69
+msgid "Data block is empty."
+msgstr ""
+
+#: ../src/dictindex.cpp:60
+#, qt-format
+msgid "Faild to open index file: %1.Error: %2"
+msgstr ""
+
+#: ../src/dictinfo.cpp:47
+#, qt-format
+msgid "Faild to open info file:%1.Error: %2"
+msgstr ""
+
+#: ../src/dictinfo.cpp:66
+#, qt-format
+msgid "Faild to read info file:%1."
+msgstr ""
+
+#: ../src/dictinfo.cpp:72
+#, qt-format
+msgid "Load '%1' failed: Incorrect magic data."
+msgstr ""
+
+#: ../src/dictinfo.cpp:74
+#, qt-format
+msgid "File '%1' is an index-based dictionary."
+msgstr ""
+
+#: ../src/dictinfo.cpp:77
+#, qt-format
+msgid "File '%1' is a resource database."
+msgstr ""
+
+#: ../src/dictinfo.cpp:80
+#, qt-format
+msgid "File '%1' is a tree dictionary. "
+msgstr ""
+
+#: ../src/dictinfo.cpp:83
+#, qt-format
+msgid "File '%1' is not a StarDict dictionary or it's broken."
+msgstr ""
+
+#: ../src/dictinfo.cpp:94
+#, qt-format
+msgid "Load %1 failed: \"version\" must be the first option."
+msgstr ""

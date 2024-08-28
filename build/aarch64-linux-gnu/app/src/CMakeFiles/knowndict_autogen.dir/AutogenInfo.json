@@ -1,0 +1,160 @@
+{
+	"BUILD_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/knowndict_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict/src",
+	"CMAKE_EXECUTABLE" : "/opt/cmake/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/hisacro/Packages/clickable_ub/knowndict/src/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/database.h",
+			"Mu",
+			"EWIEGA46WW/moc_database.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dict.h",
+			"Mu",
+			"EWIEGA46WW/moc_dict.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictcenter.h",
+			"Mu",
+			"EWIEGA46WW/moc_dictcenter.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictdatablock.h",
+			"Mu",
+			"EWIEGA46WW/moc_dictdatablock.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictindex.h",
+			"Mu",
+			"EWIEGA46WW/moc_dictindex.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictinfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_dictinfo.cpp",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/youdaoapi.h",
+			"Mu",
+			"EWIEGA46WW/moc_youdaoapi.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/knowndict_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/knowndict_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_SQL_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/aarch64-linux-gnu/qt5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtCore",
+		"/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQml",
+		"/usr/include/aarch64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/aarch64-linux-gnu/qt5/QtQuick",
+		"/usr/include/aarch64-linux-gnu/qt5/QtGui",
+		"/usr/include/aarch64-linux-gnu/qt5/QtSql",
+		"/usr/aarch64-linux-gnu/include/c++/9",
+		"/usr/aarch64-linux-gnu/include/c++/9/aarch64-linux-gnu",
+		"/usr/aarch64-linux-gnu/include/c++/9/backward",
+		"/usr/lib/gcc-cross/aarch64-linux-gnu/9/include",
+		"/usr/aarch64-linux-gnu/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/aarch64-linux-gnu-g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/cmake/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/knowndict_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/CMakeFiles/knowndict_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/src/CMakeFiles/knowndict_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/database.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dict.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictcenter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictdatablock.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictindex.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/dictinfo.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/main.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/hisacro/Packages/clickable_ub/knowndict/src/youdaoapi.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

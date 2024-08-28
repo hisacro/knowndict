@@ -1,0 +1,599 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 14:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../app/PageEnablePreinstalled.qml:44 ../app/PageEnablePreinstalled.qml:67
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:44
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:67
+msgid "Enable dictionaries"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:45
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:45
+msgid ""
+"The following dictionaries are pre-installed, due to some law issues, the "
+"dictionaries are disabled by default. User needs to enable them manually."
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:47
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:47
+msgid "Langdao English-Chinese"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:48
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:48
+msgid "Langdao Chinese-English"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:49
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:49
+msgid "Youdao online API"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:107
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:107
+msgid "Dictionaries successfully imported :)"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:108
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:108
+msgid "Sth wrong during import.. :("
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:111
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:111
+msgid "OK"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:131
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:131
+msgid "It's OK"
+msgstr ""
+
+#: ../app/PageEnablePreinstalled.qml:132
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:132
+msgid "You still can enable it in Info page."
+msgstr ""
+
+#: ../app/PageHelp.qml:44
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:44
+msgid "Welcome to<br>KnownDict"
+msgstr ""
+
+#: ../app/PageHelp.qml:60
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:60
+msgid ""
+"KnownDict is a dictonary app for Ubuntu Touch. You can install many "
+"different dictionaries."
+msgstr ""
+
+#: ../app/PageHelp.qml:65
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:65
+msgid ""
+"This is a special version for Chinese, or those who want to learn Chinese. "
+"There are 2 Chinese/English dictionaries ship with this app."
+msgstr ""
+
+#: ../app/PageHelp.qml:70
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:70
+msgid ""
+"Warning: due to some law issues, the dictionaries ship with this app are "
+"disabled by default. User needs to enable them manually."
+msgstr ""
+
+#: ../app/PageHelp.qml:77
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:77
+msgid "Swipe left to continue."
+msgstr ""
+
+#: ../app/PageHelp.qml:96
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:96
+msgid "Offline usage"
+msgstr ""
+
+#: ../app/PageHelp.qml:104
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:104
+msgid "1. This app support StarDict dictionary format file."
+msgstr ""
+
+#: ../app/PageHelp.qml:109
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:109
+msgid ""
+"2. To import StarDict dictionary, there's another instruction in setting "
+"page to show how to import."
+msgstr ""
+
+#: ../app/PageHelp.qml:126
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:126
+msgid "Online usage"
+msgstr ""
+
+#: ../app/PageHelp.qml:134
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:134
+msgid ""
+"1. This special version ship with Youdao Dictionary online API, it can "
+"translate all other languages to Chinese or Chinese to all other languages."
+msgstr ""
+
+#: ../app/PageHelp.qml:139
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:139
+msgid ""
+"2. Youdao API is also disabled by default, user needs to enable it manually."
+msgstr ""
+
+#: ../app/PageHelp.qml:144
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:144
+msgid ""
+"3. To use Youdao online dictionary, there's a bottom area in the search page "
+"to enter Youdao Online Dictionary."
+msgstr ""
+
+#: ../app/PageHelp.qml:161
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:161
+msgid "Setting Page"
+msgstr ""
+
+#: ../app/PageHelp.qml:169
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:169
+msgid ""
+"1. Normally, users are no need to care about their settings, default setting "
+"will work fine for most cases."
+msgstr ""
+
+#: ../app/PageHelp.qml:174
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:174
+msgid ""
+"2. To enter setting page, press 'Back' button in search page then press the "
+"'setting' button."
+msgstr ""
+
+#: ../app/PageHelp.qml:179
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:179
+msgid "3. In setting page, following functions can be operated by user:"
+msgstr ""
+
+#: ../app/PageHelp.qml:185
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:185
+msgid "  *. press the 'Plus' button to import new dictionary"
+msgstr ""
+
+#: ../app/PageHelp.qml:190
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:190
+msgid "  *. press the 'Switch' button to enable/disable dictionary"
+msgstr ""
+
+#: ../app/PageHelp.qml:195
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:195
+msgid "  *. swipe from left to delete one dictionary"
+msgstr ""
+
+#: ../app/PageHelp.qml:212
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:212
+msgid "Enjoy !"
+msgstr ""
+
+#: ../app/PageHelp.qml:230
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:230
+msgid "Start using KnownDict"
+msgstr ""
+
+#: ../app/PageHelp.qml:254 ../app/dict/PageHelpImport.qml:150
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:254
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:158
+msgid "Skip"
+msgstr ""
+
+#: ../app/PageInfo.qml:28
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:28
+msgid "About KnownDict"
+msgstr ""
+
+#: ../app/PageInfo.qml:50
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:50
+msgid "Help"
+msgstr ""
+
+#: ../app/PageInfo.qml:53
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:53
+msgid "Show First Run Tutorial"
+msgstr ""
+
+#: ../app/PageInfo.qml:64
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:64
+msgid "Enable default dictionaries"
+msgstr ""
+
+#: ../app/PageInfo.qml:68
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:68
+msgid "Enable it"
+msgstr ""
+
+#: ../app/PageInfo.qml:78
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:78
+msgid "Author"
+msgstr ""
+
+#: ../app/PageInfo.qml:99
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:99
+msgid "Disclaimer"
+msgstr ""
+
+#: ../app/PageInfo.qml:103
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:103
+msgid "License with GPLv3"
+msgstr ""
+
+#: ../app/PageInfo.qml:108
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:108
+msgid ""
+"Dictionaries/Online API used by this app is not/nendorsed or certified by "
+"their copyrights' owner."
+msgstr ""
+
+#: ../app/PageInfo.qml:114
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:114
+msgid "Click here to report a bug"
+msgstr ""
+
+#: ../app/components/OnlineDict.qml:93
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/components/OnlineDict.qml:93
+msgid "Hide <<"
+msgstr ""
+
+#: ../app/components/OnlineDict.qml:94
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/components/OnlineDict.qml:94
+msgid "Expand >>"
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:10
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:10
+msgid "Import Dictionaries"
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:140
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:140
+msgid "No file detected, please press the button below to import files. "
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:145
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:145
+msgid "Dictionary files detected, please press the button below to proceed. "
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:148
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:148
+msgid "Some files are missing, please make sure there are "
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:164
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:164
+msgid "Instruction"
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:170 ../app/dict/PageHelpImport.qml:125
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:170
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:133
+msgid "Start Import"
+msgstr ""
+
+#: ../app/dict/ContentHubPicker.qml:179
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:179
+msgid "Complete Import"
+msgstr ""
+
+#: ../app/dict/PageDictCenter.qml:10
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageDictCenter.qml:10
+msgid "Dictionaries"
+msgstr ""
+
+#: ../app/dict/PageDictCenter.qml:71
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageDictCenter.qml:71
+msgid ""
+"No dictionary imported yet, please press the button up here to start "
+"importing"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:26
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:26
+msgid "A. Prepare StarDict dictionary files"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:35
+msgid ""
+"1. KnownDict supports dictionaries in StarDict dictionary format. Use your "
+"favorite search engine to find some. A selection of dictionaries is "
+"available at https://tuxor1337.frama.io/firedict/dictionaries.html"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:40
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:48
+msgid "2. Download and uncompress the zip."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:45
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:53
+msgid ""
+"3. Rename and uncompress dict: mv NAME.dict.dz NAME.dict.gz && gzip -d NAME."
+"dict.gz"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:50
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:58
+msgid ""
+"4. Select the corresponding three files for import: NAME.dict, NAME.idx and "
+"NAME.ifo - source listed has same name stardict* for all the databases, "
+"rename accordingly for multiple imports"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:67
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:75
+msgid "B. Copy files to device"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:75
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:83
+msgid "1. Unlock your device and connect it to your PC via USB."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:80
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:88
+msgid ""
+"2. Copy the folder which contains the dictionary files to your devices. "
+"Remember the folder's name and location, you will need it in next step."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:96
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:104
+msgid "C. In-app import"
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:104
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:112
+msgid "1. Due to security reasons, files must be explicitly imported by user."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:109
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:117
+msgid ""
+"2. The button next to 'Instruction', is the entry of importing dictionary "
+"files."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:114
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:122
+msgid ""
+"3. When a dialog comes out to ask you what app to choose, please choose "
+"'File Manager'."
+msgstr ""
+
+#: ../app/dict/PageHelpImport.qml:119
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:127
+msgid ""
+"4. Now, select the files which you copied to your device, this app will "
+"guide you to complete the rest import process. Enjoy!"
+msgstr ""
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:39
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:39
+msgid "MMMM d"
+msgstr ""
+
+#: ../app/js/dateutils.js:54
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:54
+#, qt-format
+msgid "Yesterday at %1"
+msgstr ""
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:57
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:57
+msgid "h:mm AP"
+msgstr ""
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:69
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:69
+msgid "ddd, h:mm AP"
+msgstr ""
+
+#: ../app/js/dateutils.js:76
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:76
+msgid "A few seconds ago..."
+msgstr ""
+
+#: ../app/js/dateutils.js:79
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:79
+#, qt-format
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/js/dateutils.js:83
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:83
+#, qt-format
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/js/dateutils.js:89
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:89
+#, qt-format
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/search/PageDetail.qml:10
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageDetail.qml:10
+msgid "Detail"
+msgstr ""
+
+#: ../app/search/PageDetail.qml:110 ../app/search/PageSearch.qml:224
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageDetail.qml:110
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:224
+msgid "search via online dictionary >>"
+msgstr ""
+
+#: ../app/search/PageOnlineDetail.qml:10
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageOnlineDetail.qml:10
+msgid "Online search results"
+msgstr ""
+
+#: ../app/search/PageOnlineDetail.qml:44
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageOnlineDetail.qml:44
+msgid "Loading..."
+msgstr ""
+
+#: ../app/search/PageSearch.qml:11
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:11
+#: ../build/aarch64-linux-gnu/app/po/KnownDict.desktop.in.h:1
+#: /home/hisacro/Packages/clickable_ub/knowndict/build/x86_64-linux-gnu/app/po/KnownDict.desktop.in.h:1
+msgid "KnownDict"
+msgstr ""
+
+#: ../app/search/PageSearch.qml:80
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:80
+msgid "back"
+msgstr ""
+
+#: ../app/search/PageSearch.qml:92
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:92
+msgid "Please input a word"
+msgstr ""
+
+#: ../app/search/PageSearch.qml:177
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:177
+msgid ""
+"No dictionary found, please the press Setting button to start importing. "
+msgstr ""
+
+#: ../app/search/PageSearch.qml:267
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:267
+msgid "History"
+msgstr ""
+
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:35
+msgid ""
+"1. KnownDict supports dictionaries in StarDict dictionary format. Use your "
+"favorite search engine to find some. A selection of dictionaries is "
+"available at"
+msgstr ""
+
+#: ../build/aarch64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:39
+msgid "tuxor1337.frama.io/firedict/dictionaries.html"
+msgstr ""
+
+#: ../src/dict.cpp:25
+#, qt-format
+msgid "The %1 is not exists"
+msgstr ""
+
+#: ../src/dict.cpp:37
+#, qt-format
+msgid "The directory:%1 not contain dict files.\n"
+msgstr ""
+
+#: ../src/dict.cpp:42
+#, qt-format
+msgid "Load the info file error from. %1\n"
+msgstr ""
+
+#: ../src/dict.cpp:47
+#, qt-format
+msgid "Load the index file error from %1.\n"
+msgstr ""
+
+#: ../src/dict.cpp:52
+#, qt-format
+msgid "Load the data file error from %1.\n"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:14
+msgid "Two dict files exist!Load origin file first."
+msgstr ""
+
+#: ../src/dictdatablock.cpp:22
+#, qt-format
+msgid "The cache file '%1' cannot open or creat"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:29
+#, qt-format
+msgid "No dict file found according to %1"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:40 ../src/dictdatablock.cpp:60
+#, qt-format
+msgid "Faild to open dict file: %1.Error: %2"
+msgstr ""
+
+#: ../src/dictdatablock.cpp:49 ../src/dictdatablock.cpp:69
+msgid "Data block is empty."
+msgstr ""
+
+#: ../src/dictindex.cpp:60
+#, qt-format
+msgid "Faild to open index file: %1.Error: %2"
+msgstr ""
+
+#: ../src/dictinfo.cpp:47
+#, qt-format
+msgid "Faild to open info file:%1.Error: %2"
+msgstr ""
+
+#: ../src/dictinfo.cpp:66
+#, qt-format
+msgid "Faild to read info file:%1."
+msgstr ""
+
+#: ../src/dictinfo.cpp:72
+#, qt-format
+msgid "Load '%1' failed: Incorrect magic data."
+msgstr ""
+
+#: ../src/dictinfo.cpp:74
+#, qt-format
+msgid "File '%1' is an index-based dictionary."
+msgstr ""
+
+#: ../src/dictinfo.cpp:77
+#, qt-format
+msgid "File '%1' is a resource database."
+msgstr ""
+
+#: ../src/dictinfo.cpp:80
+#, qt-format
+msgid "File '%1' is a tree dictionary. "
+msgstr ""
+
+#: ../src/dictinfo.cpp:83
+#, qt-format
+msgid "File '%1' is not a StarDict dictionary or it's broken."
+msgstr ""
+
+#: ../src/dictinfo.cpp:94
+#, qt-format
+msgid "Load %1 failed: \"version\" must be the first option."
+msgstr ""
