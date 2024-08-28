@@ -1,6 +1,7 @@
 # Known Dictionary
 
-A dictionary app for Ubuntu Touch. [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/knowndict.hisacro)
+A dictionary app for Ubuntu Touch. 
+[![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/knowndict.hisacro)
 
 Supports online and offline dictionaries. 
 
