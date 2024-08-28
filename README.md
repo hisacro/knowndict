@@ -17,6 +17,7 @@ clickable
 ```
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/daa19013-6f8d-4f61-9a84-1b202a3f6436)
 
 ## credit
 
