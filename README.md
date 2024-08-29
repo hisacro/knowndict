@@ -10,7 +10,8 @@ You can import dictionaries in the "stardict" format. Instructions are in the ap
 Stardict format dictionaries can be downloaded from 
 
 * [tuxor1337.frama.io/firedict][1] list complied by developer of firedict, a dictionary for firefoxOS
-* [Multilingual dictionaries based on Wiktionary][7] 
+* [Multilingual dictionaries based on Wiktionary][7]
+* [xxxx to English dictionaries][9]
 ## Build
 A working clickable environment, [walkthrough guide][8]. Then,
 ```
@@ -42,4 +43,4 @@ https://code.launchpad.net/~fuxixi1991/knowndict/
 [5]: https://open-store.io/app/net.gsantner.ut.epubviewer
 [7]: https://github.com/BoboTiG/ebook-reader-dict/releases
 [8]: https://ubports.gitlab.io/marketing/education/ub-clickable-1/trainingpart1module1.html
-
+[9]: https://github.com/Vuizur/Wiktionary-Dictionaries/
