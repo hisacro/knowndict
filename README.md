@@ -40,4 +40,4 @@ https://code.launchpad.net/~fuxixi1991/knowndict/
 [3]: https://open-store.io/app/sturmreader.emanuelesorce
 [4]: https://open-store.io/app/simplereader.collaproductions
 [5]: https://open-store.io/app/net.gsantner.ut.epubviewer
-[7]: https://github.com/BoboTiG/ebook-reader-dict
+[7]: https://github.com/BoboTiG/ebook-reader-dict/releases
