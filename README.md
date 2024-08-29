@@ -10,8 +10,8 @@ You can import dictionaries in the "stardict" format. Instructions are in the ap
 Stardict format dictionaries can be downloaded from 
 
 * [tuxor1337.frama.io/firedict][1] list complied by developer of firedict, a dictionary for firefoxOS
-* [Multilingual dictionaries based on Wiktionary][7]
-* [xxxx to English dictionaries][9]
+* [Monolingual dictionaries based on Wiktionary][7]
+* [Multilingual xxxx to English dictionaries][9]
 ## Build
 A working clickable environment, [walkthrough guide][8]. Then,
 ```
