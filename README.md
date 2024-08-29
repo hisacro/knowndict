@@ -12,7 +12,7 @@ Stardict format dictionaries can be downloaded from
 * [tuxor1337.frama.io/firedict][1] list complied by developer of firedict, a dictionary for firefoxOS
 * [Multilingual dictionaries based on Wiktionary][7] 
 ## Build
-
+A working clickable environment, [walkthrough guide][8]. Then,
 ```
 git clone https://github.com/hisacro/knowndict.git
 cd knowndict 
@@ -41,3 +41,5 @@ https://code.launchpad.net/~fuxixi1991/knowndict/
 [4]: https://open-store.io/app/simplereader.collaproductions
 [5]: https://open-store.io/app/net.gsantner.ut.epubviewer
 [7]: https://github.com/BoboTiG/ebook-reader-dict/releases
+[8]: https://ubports.gitlab.io/marketing/education/ub-clickable-1/trainingpart1module1.html
+[
