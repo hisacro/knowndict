@@ -7,8 +7,10 @@ A dictionary app for Ubuntu Touch.
 Supports online and offline dictionaries. 
 
 You can import dictionaries in the "stardict" format. Instructions are in the app.
-Stardict format dictionaries can be downloaded from  [tuxor1337.frama.io/firedict][1]
+Stardict format dictionaries can be downloaded from 
 
+* [tuxor1337.frama.io/firedict][1] list complied by developer of firedict, a dictionary for firefoxOS
+* [Multilingual dictionaries based on Wiktionary][7] 
 ## Build
 
 ```
@@ -38,3 +40,4 @@ https://code.launchpad.net/~fuxixi1991/knowndict/
 [3]: https://open-store.io/app/sturmreader.emanuelesorce
 [4]: https://open-store.io/app/simplereader.collaproductions
 [5]: https://open-store.io/app/net.gsantner.ut.epubviewer
+[7]: https://github.com/BoboTiG/ebook-reader-dict
