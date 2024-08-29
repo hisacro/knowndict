@@ -25,6 +25,7 @@ clickable
 
 * [GCIDE][2] as preinstalled dictionary.
 * Circumvent uncompressing business when importing stardict database.
+* Associate with any of the reading apps ([Sturm Reader][3]/ [Simple Reader][4]/ [Epub Reader][5]) for improved accessability  
 
 ## Credits
 
@@ -34,3 +35,6 @@ https://code.launchpad.net/~fuxixi1991/knowndict/
 
 [1]: https://web.archive.org/web/20240820104935/https://tuxor1337.frama.io/firedict/dictionaries.html
 [2]: https://gcide.gnu.org.ua/
+[3]: https://open-store.io/app/sturmreader.emanuelesorce
+[4]: https://open-store.io/app/simplereader.collaproductions
+[5]: https://open-store.io/app/net.gsantner.ut.epubviewer
