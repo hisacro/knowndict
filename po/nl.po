@@ -1,0 +1,632 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 15:10+0000\n"
+"PO-Revision-Date: 2024-10-24 20:03+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: ../app/PageEnablePreinstalled.qml:44 ../app/PageEnablePreinstalled.qml:67
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:44
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:67
+msgid "Enable dictionaries"
+msgstr "Woordenboeken gebruiken"
+
+#: ../app/PageEnablePreinstalled.qml:45
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:45
+msgid ""
+"The following dictionaries are pre-installed, due to some law issues, the "
+"dictionaries are disabled by default. User needs to enable them manually."
+msgstr ""
+"De volgende woordenboeken worden meegeleverd, maar zijn wegens juridische "
+"redenen standaard uitgeschakeld."
+
+#: ../app/PageEnablePreinstalled.qml:47
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:47
+msgid "Langdao English-Chinese"
+msgstr "Langdao Engels-Chinees"
+
+#: ../app/PageEnablePreinstalled.qml:48
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:48
+msgid "Langdao Chinese-English"
+msgstr "Langdao Chinees-Engels"
+
+#: ../app/PageEnablePreinstalled.qml:49
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:49
+msgid "Youdao online API"
+msgstr "Youdao online-api"
+
+#: ../app/PageEnablePreinstalled.qml:107
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:107
+msgid "Dictionaries successfully imported :)"
+msgstr "De woordenboeken zijn geïmporteerd. :-)"
+
+#: ../app/PageEnablePreinstalled.qml:108
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:108
+msgid "Sth wrong during import.. :("
+msgstr "Er is iets misgegaan. :-("
+
+#: ../app/PageEnablePreinstalled.qml:111
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:111
+msgid "OK"
+msgstr "Oké"
+
+#: ../app/PageEnablePreinstalled.qml:131
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:131
+msgid "It's OK"
+msgstr "Geen zorgen"
+
+#: ../app/PageEnablePreinstalled.qml:132
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageEnablePreinstalled.qml:132
+msgid "You still can enable it in Info page."
+msgstr "Je kunt ze inschakelen in de sectie ‘Informatie’."
+
+#: ../app/PageHelp.qml:44
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:44
+msgid "Welcome to<br>KnownDict"
+msgstr "Welkom in<br>KnownDict"
+
+#: ../app/PageHelp.qml:60
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:60
+msgid ""
+"KnownDict is a dictonary app for Ubuntu Touch. You can install many "
+"different dictionaries."
+msgstr ""
+"KnownDict is een woordenboekapp voor Ubuntu Touch, die wordt geleverd met "
+"diverse woordenboeken."
+
+#: ../app/PageHelp.qml:65
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:65
+msgid ""
+"This is a special version for Chinese, or those who want to learn Chinese. "
+"There are 2 Chinese/English dictionaries ship with this app."
+msgstr ""
+"Deze uitgave is speciaal bedoeld voor Chinezen of zij die Chinees willen "
+"leren. Er worden twee woordenboeken meegeleverd: Chinees-Engels en Engels-"
+"Chinees."
+
+#: ../app/PageHelp.qml:70
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:70
+msgid ""
+"Warning: due to some law issues, the dictionaries ship with this app are "
+"disabled by default. User needs to enable them manually."
+msgstr ""
+"Waarschuwing: wegens juridische redenen zijn de meegeleverde woordenboeken "
+"standaard uitgeschakeld. Ze kunnen in de instellingen worden ingeschakeld."
+
+#: ../app/PageHelp.qml:77
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:77
+msgid "Swipe left to continue."
+msgstr "Veeg naar links om door te gaan."
+
+#: ../app/PageHelp.qml:96
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:96
+msgid "Offline usage"
+msgstr "Offline-gebruik"
+
+#: ../app/PageHelp.qml:104
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:104
+msgid "1. This app support StarDict dictionary format file."
+msgstr "1. Deze app ondersteunt het StarDict-woordenboekformaat;"
+
+#: ../app/PageHelp.qml:109
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:109
+msgid ""
+"2. To import StarDict dictionary, there's another instruction in setting "
+"page to show how to import."
+msgstr ""
+"2. StarDict-woordenboeken kunnen geïmporteerd worden door de instructies in "
+"de instellingen te volgen."
+
+#: ../app/PageHelp.qml:126
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:126
+msgid "Online usage"
+msgstr "Online-gebruik"
+
+#: ../app/PageHelp.qml:134
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:134
+msgid ""
+"1. This special version ship with Youdao Dictionary online API, it can "
+"translate all other languages to Chinese or Chinese to all other languages."
+msgstr ""
+"1. Deze versie wordt geleverd met de online-api van Youdao en kan teksten "
+"uit allerlei talen vertalen naar het Chinees en vice-versa;"
+
+#: ../app/PageHelp.qml:139
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:139
+msgid ""
+"2. Youdao API is also disabled by default, user needs to enable it manually."
+msgstr "2. De Youdao-api is eveneens standaard uitgeschakeld;"
+
+#: ../app/PageHelp.qml:144
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:144
+msgid ""
+"3. To use Youdao online dictionary, there's a bottom area in the search page "
+"to enter Youdao Online Dictionary."
+msgstr ""
+"3. Op het onderste gedeelte van de zoekpagina vind je de mogelijkheid om "
+"deze in te schakelen."
+
+#: ../app/PageHelp.qml:161
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:161
+msgid "Setting Page"
+msgstr "Instellingen"
+
+#: ../app/PageHelp.qml:169
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:169
+msgid ""
+"1. Normally, users are no need to care about their settings, default setting "
+"will work fine for most cases."
+msgstr ""
+"1. Normaliter hoef je niet naar de instellingen om te kijken, daar de app "
+"reeds goed is afgesteld;"
+
+#: ../app/PageHelp.qml:174
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:174
+msgid ""
+"2. To enter setting page, press 'Back' button in search page then press the "
+"'setting' button."
+msgstr ""
+"2. Maar mocht je het tóch willen: op het zoekscherm kun je op de terugknop "
+"drukken en vervolgens op de instellingenknop;"
+
+#: ../app/PageHelp.qml:179
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:179
+msgid "3. In setting page, following functions can be operated by user:"
+msgstr "3. In de instellingen kun je de volgende zaken regelen:"
+
+#: ../app/PageHelp.qml:185
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:185
+msgid "  *. press the 'Plus' button to import new dictionary"
+msgstr "  *. Druk op de plusknop om een woordendoek te importeren;"
+
+#: ../app/PageHelp.qml:190
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:190
+msgid "  *. press the 'Switch' button to enable/disable dictionary"
+msgstr "  *. Druk op een schakelaar om een woordenboek in of uit te schakelen;"
+
+#: ../app/PageHelp.qml:195
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:195
+msgid "  *. swipe from left to delete one dictionary"
+msgstr "  *. Veeg een woordenboek naar links om te verwijderen."
+
+#: ../app/PageHelp.qml:212
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:212
+msgid "Enjoy !"
+msgstr "Veel plezier!"
+
+#: ../app/PageHelp.qml:230
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:230
+msgid "Start using KnownDict"
+msgstr "Aan de slag met KnownDict"
+
+#: ../app/PageHelp.qml:254 ../app/dict/PageHelpImport.qml:150
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageHelp.qml:254
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:150
+msgid "Skip"
+msgstr "Overslaan"
+
+#: ../app/PageInfo.qml:28
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:28
+msgid "About KnownDict"
+msgstr "Over KnownDict"
+
+#: ../app/PageInfo.qml:50
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:50
+msgid "Help"
+msgstr "Hulp"
+
+#: ../app/PageInfo.qml:53
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:53
+msgid "Show First Run Tutorial"
+msgstr "Instelhulp tonen"
+
+#: ../app/PageInfo.qml:64
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:64
+msgid "Enable default dictionaries"
+msgstr "Standaardwoordenboeken inschakelen"
+
+#: ../app/PageInfo.qml:68
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:68
+msgid "Enable it"
+msgstr "Inschakelen"
+
+#: ../app/PageInfo.qml:78
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:78
+msgid "Author"
+msgstr "Maker"
+
+#: ../app/PageInfo.qml:99
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:99
+msgid "Disclaimer"
+msgstr "Vrijwaring"
+
+#: ../app/PageInfo.qml:103
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:103
+msgid "License with GPLv3"
+msgstr "Uitgebracht onder de GPLv3-licentie"
+
+#: ../app/PageInfo.qml:108
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:108
+msgid ""
+"Dictionaries/Online API used by this app is not/nendorsed or certified by "
+"their copyrights' owner."
+msgstr ""
+"Zowel de woordenboeken als online-api worden niet verstrekt, noch beheerd "
+"door de maker van de app."
+
+#: ../app/PageInfo.qml:114
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/PageInfo.qml:114
+msgid "Click here to report a bug"
+msgstr "Druk om een bug te melden"
+
+#: ../app/components/OnlineDict.qml:93
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/components/OnlineDict.qml:93
+msgid "Hide <<"
+msgstr "Verbergen ←"
+
+#: ../app/components/OnlineDict.qml:94
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/components/OnlineDict.qml:94
+msgid "Expand >>"
+msgstr "Tonen →"
+
+#: ../app/dict/ContentHubPicker.qml:10
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:10
+msgid "Import Dictionaries"
+msgstr "Woordenboeken importeren"
+
+#: ../app/dict/ContentHubPicker.qml:140
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:140
+msgid "No file detected, please press the button below to import files. "
+msgstr ""
+"Er is geen bestand aangetroffen. Druk op onderstaande knop om bestanden te "
+"importeren. "
+
+#: ../app/dict/ContentHubPicker.qml:145
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:145
+msgid "Dictionary files detected, please press the button below to proceed. "
+msgstr ""
+"Er zijn woordenboekbestanden aangetroffen. Druk op onderstaande knop om "
+"verder te gaan. "
+
+#: ../app/dict/ContentHubPicker.qml:148
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:148
+msgid "Some files are missing, please make sure there are "
+msgstr "Er ontbreken bestanden. Zorg ervoor dat "
+
+#: ../app/dict/ContentHubPicker.qml:164
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:164
+msgid "Instruction"
+msgstr "Instructies"
+
+#: ../app/dict/ContentHubPicker.qml:170 ../app/dict/PageHelpImport.qml:125
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:170
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:125
+msgid "Start Import"
+msgstr "Importeren"
+
+#: ../app/dict/ContentHubPicker.qml:179
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/ContentHubPicker.qml:179
+msgid "Complete Import"
+msgstr "De import is voltooid"
+
+#: ../app/dict/PageDictCenter.qml:10
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageDictCenter.qml:10
+msgid "Dictionaries"
+msgstr "Woordenboeken"
+
+#: ../app/dict/PageDictCenter.qml:71
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageDictCenter.qml:71
+msgid ""
+"No dictionary imported yet, please press the button up here to start "
+"importing"
+msgstr ""
+"Er zijn nog geen woordenboeken geïmporteerd. Druk op bovenstaande knop om te "
+"importeren."
+
+#: ../app/dict/PageHelpImport.qml:26
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:26
+msgid "A. Prepare StarDict dictionary files"
+msgstr "A. Zet StarDict-woordenboekbestanden klaar"
+
+#: ../app/dict/PageHelpImport.qml:35
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:35
+msgid ""
+"1. KnownDict supports dictionaries in StarDict dictionary format. Use your "
+"favorite search engine to find some. A selection of dictionaries is "
+"available at https://tuxor1337.frama.io/firedict/dictionaries.html"
+msgstr ""
+"1. KnownDict heeft ondersteuning voor woordenboeken in StarDict-formaat. Met "
+"behulp van je favoriete zoekmachine kun je er een hoop vinden. Ook op "
+"https://tuxor1337.frama.io/firedict/dictionaries.html vind je een lijst."
+
+#: ../app/dict/PageHelpImport.qml:40
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:40
+msgid "2. Download and uncompress the zip."
+msgstr "2. Download het zipbestand en pak het uit;"
+
+#: ../app/dict/PageHelpImport.qml:45
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:45
+msgid ""
+"3. Rename and uncompress dict: mv NAME.dict.dz NAME.dict.gz && gzip -d NAME."
+"dict.gz"
+msgstr ""
+"3. Wijzig de naam: mv NAAM.dict.dz NAAM.dict.gz && gzip -d NAAM.dict.gz"
+
+#: ../app/dict/PageHelpImport.qml:50
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:50
+msgid ""
+"4. Select the corresponding three files for import: NAME.dict, NAME.idx and "
+"NAME.ifo - source listed has same name stardict* for all the databases, "
+"rename accordingly for multiple imports"
+msgstr "4. Kies de te importeren bestanden: NAAM.dict, NAAM.idx en NAAM.ifo."
+
+#: ../app/dict/PageHelpImport.qml:67
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:67
+msgid "B. Copy files to device"
+msgstr "B. Kopieer de bestanden naar je apparaat"
+
+#: ../app/dict/PageHelpImport.qml:75
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:75
+msgid "1. Unlock your device and connect it to your PC via USB."
+msgstr "1. Ontgrendel je apparaat en verbind hem met je computer;"
+
+#: ../app/dict/PageHelpImport.qml:80
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:80
+msgid ""
+"2. Copy the folder which contains the dictionary files to your devices. "
+"Remember the folder's name and location, you will need it in next step."
+msgstr ""
+"2. Kopieer de map met woordenboekbestanden naar je apparaat, maar behoud de "
+"mapnaam en -locatie."
+
+#: ../app/dict/PageHelpImport.qml:96
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:96
+msgid "C. In-app import"
+msgstr "C. Importeren vanuit de app"
+
+#: ../app/dict/PageHelpImport.qml:104
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:104
+msgid "1. Due to security reasons, files must be explicitly imported by user."
+msgstr ""
+"1. Omwille van veiligheidsredenen dienen bestanden handmatig te worden "
+"geïmporteerd;"
+
+#: ../app/dict/PageHelpImport.qml:109
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:109
+msgid ""
+"2. The button next to 'Instruction', is the entry of importing dictionary "
+"files."
+msgstr ""
+"2. Met behulp van de knop naast ‘Instructies’ kun je woordenboekbestanden "
+"importeren."
+
+#: ../app/dict/PageHelpImport.qml:114
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:114
+msgid ""
+"3. When a dialog comes out to ask you what app to choose, please choose "
+"'File Manager'."
+msgstr "3. Op het appscherm dat opent kies je voor ‘Bestansbeheerder’."
+
+#: ../app/dict/PageHelpImport.qml:119
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/dict/PageHelpImport.qml:119
+msgid ""
+"4. Now, select the files which you copied to your device, this app will "
+"guide you to complete the rest import process. Enjoy!"
+msgstr ""
+"4. Vervolgens kun je alle bestanden kiezen die je zojuist hebt overgezet. De "
+"app begeleidt je door de rest van het proces. Veel plezier!"
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:39
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:39
+msgid "MMMM d"
+msgstr "d MMMM"
+
+#: ../app/js/dateutils.js:54
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:54
+#, qt-format
+msgid "Yesterday at %1"
+msgstr "Gisteren, om %1"
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:57
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:57
+msgid "h:mm AP"
+msgstr "hh:mm"
+
+#. TRANSLATORS: this is a time formatting string,
+#. see http://qt-project.org/doc/qt-5.0/qtqml/qml-qtquick2-date.html#details for valid expressions
+#: ../app/js/dateutils.js:69
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:69
+msgid "ddd, h:mm AP"
+msgstr "ddd, hh:mm"
+
+#: ../app/js/dateutils.js:76
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:76
+msgid "A few seconds ago..."
+msgstr "Zojuist..."
+
+#: ../app/js/dateutils.js:79
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:79
+#, qt-format
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] "%1 minuut geleden"
+msgstr[1] "%1 minuten geleden"
+
+#: ../app/js/dateutils.js:83
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:83
+#, qt-format
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] "%1 uur geleden"
+msgstr[1] "%1 uur geleden"
+
+#: ../app/js/dateutils.js:89
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/js/dateutils.js:89
+#, qt-format
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] "%1 dag geleden"
+msgstr[1] "%1 dagen geleden"
+
+#: ../app/search/PageDetail.qml:10
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageDetail.qml:10
+msgid "Detail"
+msgstr "Details"
+
+#: ../app/search/PageDetail.qml:110 ../app/search/PageSearch.qml:224
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageDetail.qml:110
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:224
+msgid "search via online dictionary >>"
+msgstr "Opzoeken in online-woordenboek →"
+
+#: ../app/search/PageOnlineDetail.qml:10
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageOnlineDetail.qml:10
+msgid "Online search results"
+msgstr "Zoekresultaten"
+
+#: ../app/search/PageOnlineDetail.qml:44
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageOnlineDetail.qml:44
+msgid "Loading..."
+msgstr "Bezig met laden…"
+
+#: ../app/search/PageSearch.qml:11
+#: ../build/aarch64-linux-gnu/app/po/KnownDict.desktop.in.h:1
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:11
+#: ../build/x86_64-linux-gnu/app/po/KnownDict.desktop.in.h:1
+#: /home/hisacro/Packages/clickable_ub/knowndict/build/aarch64-linux-gnu/app/po/KnownDict.desktop.in.h:1
+msgid "KnownDict"
+msgstr "KnownDict"
+
+#: ../app/search/PageSearch.qml:80
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:80
+msgid "back"
+msgstr "Terug"
+
+#: ../app/search/PageSearch.qml:92
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:92
+msgid "Please input a word"
+msgstr "Voer een woord in"
+
+#: ../app/search/PageSearch.qml:177
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:177
+msgid ""
+"No dictionary found, please the press Setting button to start importing. "
+msgstr ""
+"Er is geen woordenboek aangetroffen. Importeer een woordenboek via de "
+"instellingen. "
+
+#: ../app/search/PageSearch.qml:267
+#: ../build/x86_64-linux-gnu/app/install/share/qml/knowndict/search/PageSearch.qml:267
+msgid "History"
+msgstr "Geschiedenis"
+
+#: ../src/dict.cpp:25
+#, qt-format
+msgid "The %1 is not exists"
+msgstr "”%1” bestaat niet."
+
+#: ../src/dict.cpp:37
+#, qt-format
+msgid "The directory:%1 not contain dict files.\n"
+msgstr "“%1” bevat geen woordenboekbestanden.\n"
+
+#: ../src/dict.cpp:42
+#, qt-format
+msgid "Load the info file error from. %1\n"
+msgstr "Het informatiebestand uit ‘%1’ kan niet worden geladen.\n"
+
+#: ../src/dict.cpp:47
+#, qt-format
+msgid "Load the index file error from %1.\n"
+msgstr "Het indexbestand uit ‘%1’ kan niet worden geladen.\n"
+
+#: ../src/dict.cpp:52
+#, qt-format
+msgid "Load the data file error from %1.\n"
+msgstr "Het gegevensbestand uit ‘%1’ kan niet worden geladen.\n"
+
+#: ../src/dictdatablock.cpp:14
+msgid "Two dict files exist!Load origin file first."
+msgstr "Er zijn twee woordenboekbestanden aangetroffen."
+
+#: ../src/dictdatablock.cpp:22
+#, qt-format
+msgid "The cache file '%1' cannot open or creat"
+msgstr "Het cachebestand, ‘%1’, kan niet worden geopend of aangemaakt."
+
+#: ../src/dictdatablock.cpp:29
+#, qt-format
+msgid "No dict file found according to %1"
+msgstr "Volgens %1 is er geen woordenboekbestand aangetroffen"
+
+#: ../src/dictdatablock.cpp:40 ../src/dictdatablock.cpp:60
+#, qt-format
+msgid "Faild to open dict file: %1.Error: %2"
+msgstr "Het woordenboekbestand, ‘%1’, kan niet worden geopend. Foutmelding: %2"
+
+#: ../src/dictdatablock.cpp:49 ../src/dictdatablock.cpp:69
+msgid "Data block is empty."
+msgstr "Het gegevensblok is blanco."
+
+#: ../src/dictindex.cpp:60
+#, qt-format
+msgid "Faild to open index file: %1.Error: %2"
+msgstr "Het indexbestand, ‘%1’, kan niet worden geopend. Foutmelding: %2"
+
+#: ../src/dictinfo.cpp:47
+#, qt-format
+msgid "Faild to open info file:%1.Error: %2"
+msgstr "Het informatiebestand, ‘%1’, kan niet worden geopend. Foutmelding: %2"
+
+#: ../src/dictinfo.cpp:66
+#, qt-format
+msgid "Faild to read info file:%1."
+msgstr "Het informatiebestand, ‘%1’, kan niet worden uitgelezen."
+
+#: ../src/dictinfo.cpp:72
+#, qt-format
+msgid "Load '%1' failed: Incorrect magic data."
+msgstr "‘%1’ kan niet worden geladen: ongeldige magische gegevens."
+
+#: ../src/dictinfo.cpp:74
+#, qt-format
+msgid "File '%1' is an index-based dictionary."
+msgstr "‘%1’ is een woordenboek met alleen een index."
+
+#: ../src/dictinfo.cpp:77
+#, qt-format
+msgid "File '%1' is a resource database."
+msgstr "‘%1’ is een databank."
+
+#: ../src/dictinfo.cpp:80
+#, qt-format
+msgid "File '%1' is a tree dictionary. "
+msgstr "‘%1’ is een woordenboek bestaande uit een boom."
+
+#: ../src/dictinfo.cpp:83
+#, qt-format
+msgid "File '%1' is not a StarDict dictionary or it's broken."
+msgstr "‘%1’ is geen StarDict-woordenboek of beschadigd."
+
+#: ../src/dictinfo.cpp:94
+#, qt-format
+msgid "Load %1 failed: \"version\" must be the first option."
+msgstr "‘%1’ kan niet worden geladen: ‘version’ dient de eerste optie te zijn."
